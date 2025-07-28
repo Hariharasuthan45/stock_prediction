@@ -4,8 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import datetime
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Input, LSTM, Dense
+from keras.models import Sequential
+from keras.layers import Input, LSTM, Dense
+
 
 import streamlit as st
 import hashlib
