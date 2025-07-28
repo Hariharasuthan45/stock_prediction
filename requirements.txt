@@ -1,9 +1,10 @@
-streamlit
-pandas
-numpy
+tensorflow==2.13.0
 yfinance
+streamlit
+keras
 scikit-learn
 matplotlib
-tensorflow-cpu==2.11.1
+pandas
+numpy
 
 
